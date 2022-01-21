@@ -70,8 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-CREDIT: 
+### CREDIT 
 
-Project Created following tutorial by JavaScript Mastery
+Project Created following tutorial 'Build and Deploy 5 Javascript & React API Projects in 10 Hours - Full Cource | RapidAPI' by JavaScript Mastery
 
 https://github.com/adrianhajdin/project_travel_advisor
